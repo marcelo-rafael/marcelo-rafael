@@ -16,7 +16,7 @@
   📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native and Typescript</b>
 </p>
 
 <p align="center">
