@@ -16,11 +16,11 @@
   📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
 </p>
 <p align="center">
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 Focused in <b>Node.JS</b>, <b>ReactJS</b> and <b>React Native and Typescript</b>
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🎯 studying <b>ReactJS</b>, <b>Node.JS</b>, <b>React Native and Typescript</b>
 </p>
 
 <p align="center">
-  JavaScript | Node.js | ReactJS | React Native | HTML | CSS | Git
+  HTML | CSS | JavaScript | ReactJS | Node.js | React Native |  
 </p>
 
 <p align="center">In my free time I like to play soccer (⚽️), to watch movies (🎞️) ,series (📺), play games (🎮), read books (📚) and listen to music (🎵).</p>
