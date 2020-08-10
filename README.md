@@ -26,6 +26,10 @@
 <p align="center">In my free time I like to play soccer (⚽️), to watch movies (🎞️) ,series (📺), play games (🎮), read books (📚) and listen to music (🎵).</p>
 
 <p align="center">
+  contact me
+</p>
+
+<p align="center">
   <a
     href="https://web.whatsapp.com/send?phone=+5511950330322" 
     alt="WhatsApp"
