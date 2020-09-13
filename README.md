@@ -25,6 +25,11 @@
 
 <p align="center">In my free time I like to play soccer (⚽️), to watch movies (🎞️) ,series (📺), play games (🎮), read books (📚) and listen to music (🎵).</p>
 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&show_icons=true" alt="Marcelo Rafael Gonçalves"/> 
+  </p>
+
 <p align="center">
   contact me
 </p>
