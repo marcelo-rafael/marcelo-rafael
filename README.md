@@ -47,7 +47,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmaill&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Marcelo-red?style=flat&logo=Gmaill&logoColor=white" />
     
   </a>
   <a
@@ -55,7 +55,7 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Marcelo-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/marcelo-rafael"
