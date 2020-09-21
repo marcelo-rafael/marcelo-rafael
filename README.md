@@ -47,7 +47,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Marcelo-red?style=flat&logo=Gmaill&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Marcelo-red?style=flat&logo=Gmail&logoColor=white" />
     
   </a>
   <a
