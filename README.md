@@ -40,14 +40,14 @@
     alt="WhatsApp"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-WhatsApp-4CA143?style=flat&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=WhatsApp&logoColor=white" />
   </a>
   <a
     href="mailto:marcelo.rafael.goncalves@gmail.com" 
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Marcelo-red?style=flat&logo=Gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
     
   </a>
   <a
@@ -55,7 +55,7 @@
     alt="LinkedIn"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Marcelo-blue?style=flat&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" />
   </a>
   <a
     href="https://github.com/marcelo-rafael"
