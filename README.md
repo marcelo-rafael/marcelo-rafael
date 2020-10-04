@@ -1,5 +1,6 @@
-
-![alt text](https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif)
+<p align="center">
+<img align="center" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats" />
+</p>
 
 <h1 align="center">
   Hey, I'm Marcelo! 👋
