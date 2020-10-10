@@ -29,11 +29,16 @@
 
 <p align="center">
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&show_icons=true&include_all_commits=true&theme=radical" alt="marcelo-rafael github stats" />
+    <img 
+         align="center" 
+         src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&show_icons=true&include_all_commits=true" alt="marcelo-rafael github stats" />
   </a>
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
-  <!-- Change the `github-readme-stats.marcelo-rafael.vercel.app` to `github-readme-stats.vercel.app`  -->
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&layout=compact&theme=radical" />
+    <img 
+         align="center" 
+         height="165"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&layout=compact" 
+     />
   </a>
 </p>
 
