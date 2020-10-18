@@ -6,9 +6,13 @@
   Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Marcelo</h2>
 </h1>
 
+---
+
 <p align="center">
-  💻 <b>Front-end developer</b> &nbsp;
+  💻 <b>Front-end developer - Focused on ReactJS, React Native and NodeJS technologies </b> &nbsp;
 </p>
+
+---
 
 <p align="center">
   📌 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp;
@@ -19,8 +23,10 @@
 </p>
 
 <p align="center">
-  🌱 Learning more about and studying: <b>ReactJS</b>, <b>Node.JS</b>, <b>React Native and Typescript</b>
+  🌱 I am currently studying: ** Node.js, ReactJS, React Native and TypeScript **
 </p>
+
+---
 
 <h1 align="center">Languages and Tools</h1>
 
