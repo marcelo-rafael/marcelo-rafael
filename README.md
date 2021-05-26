@@ -3,16 +3,12 @@
 </p>
 
 <h1 align="center">
-  Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Marcelo</h2>
+  Hi < Developers /> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Marcelo</h2>
 </h1>
 
----
-
 <p align="center">
-  💻 <b>Front-end developer - Focused on ReactJS, React Native and NodeJS technologies </b> &nbsp;
+  💻 <b>Front-end developer - Focused on ReactJS, NextJS, TypeScript </b>
 </p>
-
----
 
 <p align="center">
   📌 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp;
@@ -23,105 +19,25 @@
 </p>
 
 <p align="center">
-  🌱 I am currently studying: ** Node.js, ReactJS, React Native and TypeScript **
+  🌱 I am currently learning: **ReactJS, NextJS, TypeScript and Styled-Components **
 </p>
+
+<p align="center">❤️ **Hobbies:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listening to music, 📚 read books, 🎮 play Video game.</p>
 
 ---
 
-<h1 align="center">Languages and Tools</h1>
-
- <p align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://developer.mozilla.org/pt-BR/docs/Aprender/JavaScript" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="hhttps://www.mysql.com/" target="_blank">
-    <img
-      src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-   <a href="https://www.mongodb.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-<p align="center">In my free time I like to play soccer (⚽️), to watch movies (🎞️) ,series (📺), play games (🎮), read books (📚) and listen to music (🎵).</p>
+<h1 align="center">Languages / Technologies / Tools</h1>
+<p align="center">
+<code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
+<code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
+<code><img alt="JavaScript" title="JavScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img alt="TypeScript" title="TypeScript" height="20" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
+<code><img alt="React / React Native" title="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img alt="Redux" title="Redux" height="20" src="https://user-images.githubusercontent.com/38081852/87548846-7427c400-c683-11ea-8d14-f629b938577d.png"></code>
+<code><img alt="JestJS" title="JestJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337586-0f9d2580-c51a-11ea-9962-e374764d8b75.png"></code>
+<code><img alt="Figma" title="Figma" height="25" src="https://user-images.githubusercontent.com/38081852/87336309-03b06400-c518-11ea-9981-8b0b7c9d5ca8.png"></code>
+<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
+  </p>
 
 <p align="center">
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
@@ -140,7 +56,7 @@
 </p>
 
 <p align="center">
-  contact me
+ 🌍 contact me
 </p>
 
 <p align="center">
