@@ -1,43 +1,109 @@
-<p align="center">
-  <img align="center" src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats" />
-</p>
-
 <h1 align="center">
-  Hi < Developers /> <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Marcelo</h2>
+  Olá eu sou o Marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
-<p align="center">
-  💻 <b>Front-end developer - Focused on ReactJS, NextJS, TypeScript </b>
+<br />
+<br />
+
+<!-- IMAGEM -->
+
+<img
+	src="https://files.readme.io/8c11911-senior-front-end-developer-openings-1.gif" alt="marcelo-rafael github stats"
+	width="50%"
+	align="right"
+/>
+
+[![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
+[![currículo](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcelo-rafael)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.r.goncalves/)
+[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-rafael-gonçalves)
+   
+<br />
+<br />
+<!-- SOBRE -->
+
+🚀 Sobre mim
+
+<p align="left">
+  💻 Desenvolvedor front-end ReactJS 
 </p>
 
-<p align="center">
-  📌 Living in <b>São Paulo</b>, <b>Brazil</b> &nbsp;
+<p align="left">
+  📌 Moro em São Paulo-BR
 </p>
 
-<p align="center">
-  📚 Graduating in <b>Analysis and Systems Development</b> &nbsp;
+<p align="left">
+ 🎓👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
 </p>
 
-<p align="center">
-  🌱 I am currently learning: **ReactJS, NextJS, TypeScript and Styled-Components **
+<p align="left">
+  👨‍🎓 Sou aluno do Bootcamp Ignite na trilha de React.js, React Native e Node.js
+</p>
+<p align="left">
+ 🤓 Atualmente estou focado no front-end aprendendo as tecnologias: React.js, TypeScript, Next.js, e Styled-Components
 </p>
 
-<p align="center">❤️ **Hobbies:** ⚽️ play soccer, 📺 watch movies, series and animes, 🎶 listening to music, 📚 read books, 🎮 play Video game.</p>
+<p align="left">❤️ **Hobbies:** ⚽️ jogar futebol, 📺 assistir filmes, séries e animes, 🎶 ouvir músicas, 📚 ler livros, 🎮 jogar video game.</p>
 
 ---
 
-<h1 align="center">Languages / Technologies / Tools</h1>
-<p align="center">
-<code><img alt="HTML" title="HTML" height="24" src="https://user-images.githubusercontent.com/38081852/87240030-0f9f0780-c3ec-11ea-8370-829ea755b6e9.png"></code>
-<code><img alt="CSS" title="CSS" height="24" src="https://user-images.githubusercontent.com/38081852/87240029-0f067100-c3ec-11ea-8075-74e821ece9c0.png"></code>
-<code><img alt="JavaScript" title="JavScript" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img alt="TypeScript" title="TypeScript" height="20" src="https://user-images.githubusercontent.com/38081852/87239831-f8f7b100-c3e9-11ea-92df-5d7c8c4458d2.png"></code>
-<code><img alt="React / React Native" title="React" height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img alt="Redux" title="Redux" height="20" src="https://user-images.githubusercontent.com/38081852/87548846-7427c400-c683-11ea-8d14-f629b938577d.png"></code>
-<code><img alt="JestJS" title="JestJS" height="20" src="https://user-images.githubusercontent.com/38081852/87337586-0f9d2580-c51a-11ea-9962-e374764d8b75.png"></code>
-<code><img alt="Figma" title="Figma" height="25" src="https://user-images.githubusercontent.com/38081852/87336309-03b06400-c518-11ea-9981-8b0b7c9d5ca8.png"></code>
-<code><img alt="Visual Studio Code" title="Visual Studio Code" height="25" src="https://user-images.githubusercontent.com/38081852/87336793-cbf5ec00-c518-11ea-960c-d6ff6aa1b177.png"></code>
-  </p>
+### 🛠️ Habilidades
+#### 🎨 ✍🏼 Design: <br/>
+<!-- FIGMA -->
+<a href="#">
+      <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+
+#### :wrench: Ferramentas e ambientes
+
+<!-- GIT -->
+<a href="#">
+      <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+<!-- NPM -->
+<a href="#">
+      <img alt="NPM" src="https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+<!-- YARN -->
+<a href="#">
+      <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
+</a>
+
+### :computer: Front-End Development
+
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![next](https://img.shields.io/badge/Next-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![styled-components](https://img.shields.io/badge/STYLED_COMPONENTS-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### :computer: Backend as a Service (BaaS)
+
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
+![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### :computer: Testing
+
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+## 🖥️ Workspace Setup
+
+![FX-6300](https://img.shields.io/badge/FX-6300-0071C5?style=for-the-badge&logo=amd&logoColor=white)
+![16GB RAM](https://img.shields.io/badge/16GB-RAM-0071C5?style=for-the-badge&logo=memoria-ram&logoColor=white)
+![gtx-960](https://img.shields.io/badge/NVIDIA-GTX_960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![windows](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![vs-code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white)
+
+---
+
+## 📈 Stats
 
 <p align="center">
   <a href="https://github.com/marcelo-rafael/github-readme-stats">
@@ -55,35 +121,6 @@
   </a>
 </p>
 
-<p align="center">
- 🌍 contact me
-</p>
-
-<p align="center">
-  <a
-    href="https://web.whatsapp.com/send?phone=+5511950330322" 
-    alt="WhatsApp"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&logo=WhatsApp&logoColor=white" />
-  </a>
-  <a
-    href="mailto:marcelo.rafael.goncalves@gmail.com" 
-    alt="Gmail"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" />
-    
-  </a>
-   <a
-    href="https://www.linkedin.com/in/marcelo-rafael-gonçalves/" 
-    alt="LinkedIn"
-    target="blank"
-  >
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white" />
-  </a>
-  
-</p>
 
 
 
