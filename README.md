@@ -120,6 +120,9 @@
      />
   </a>
 </p>
+<div align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael" alt="visitors">
+</div>
 
 
 
