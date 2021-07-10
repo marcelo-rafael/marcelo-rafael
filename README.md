@@ -105,21 +105,11 @@
 
 ## 📈 Stats
 
-<p align="center">
-  <a href="https://github.com/marcelo-rafael/github-readme-stats">
-    <img 
-         align="center" 
-         height="165"
-         src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&show_icons=true&include_all_commits=true" alt="marcelo-rafael github stats" />
-  </a>
-  <a href="https://github.com/marcelo-rafael/github-readme-stats">
-    <img 
-         align="center" 
-         height="165"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&layout=compact" 
-     />
-  </a>
-</p>
+[![Marcelo github stats](https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true)](https://github.com/marcelo-rafael/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact)](https://github.com/marcelo-rafael/github-readme-stats)
+
+
+[![marcelorafael's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=marcelorafael&theme=dracula)](https://github.com/marcelo-rafael/github-readme-stats)
+
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael" alt="visitors">
 </div>
