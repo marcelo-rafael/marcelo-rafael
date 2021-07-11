@@ -1,5 +1,5 @@
 <h1 align="center">
-  Olá eu sou o Marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hello i'm marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <br />
@@ -14,7 +14,7 @@
 />
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
-[![currículo](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VhaL9D5fgMCvaa8dcCd90KMK8GZ9uKGl/view)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VhaL9D5fgMCvaa8dcCd90KMK8GZ9uKGl/view)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcelo-rafael)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.r.goncalves/)
@@ -22,41 +22,41 @@
    
 <br />
 <br />
-<!-- SOBRE -->
+<!-- About -->
 
-🚀 Sobre mim
+🚀 About me
 
 <p align="left">
-  💻 Desenvolvedor front-end ReactJS 
+  💻 Front-end developer React.js/Next.js
 </p>
 
 <p align="left">
-  📌 Moro em São Paulo-BR
+  📌 I live in São Paulo - BR
 </p>
 
 <p align="left">
- 🎓👨‍🎓 Formado em Análise e Desenvolvimento de Sistemas
+ 🎓👨‍🎓 Graduated in Systems Analysis and Development
 </p>
 
 <p align="left">
-  👨‍🎓 Sou aluno do Bootcamp Ignite na trilha de React.js, React Native e Node.js
+  👨‍🎓 I am a student at Bootcamp Ignite on the trail of React.js, React Native and Node.js
 </p>
 <p align="left">
- 🤓 Atualmente estou focado no front-end aprendendo as tecnologias: React.js, TypeScript, Next.js, e Styled-Components
+ 🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
 </p>
 
-<p align="left">❤️ **Hobbies:** ⚽️ jogar futebol, 📺 assistir filmes, séries e animes, 🎶 ouvir músicas, 📚 ler livros, 🎮 jogar video game.</p>
+<p align="left">❤️ **interests:** ⚽️ play football, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</p>
 
 ---
 
-### 🛠️ Habilidades
+### 🛠️ Skills
 #### 🎨 ✍🏼 Design: <br/>
 <!-- FIGMA -->
 <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
 </a>
 
-#### :wrench: Ferramentas e ambientes
+#### :wrench: Tools and environments
 
 <!-- GIT -->
 <a href="#">
