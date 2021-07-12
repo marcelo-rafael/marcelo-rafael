@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello i'm marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hi there, I'm marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <br />
@@ -103,7 +103,14 @@
 
 ---
 
-## 📈 Stats
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
+
+## 📈 **My GitHub Stats:**
 
 [![Marcelo github stats](https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true)](https://github.com/marcelo-rafael/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact)](https://github.com/marcelo-rafael/github-readme-stats)
 
