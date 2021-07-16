@@ -109,8 +109,8 @@
 
 <!-- Stats -->
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true" alt="marcelo-rafael"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact" alt="marcelo-rafael" />
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true" alt="marcelo-rafael"/>
+    <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact" alt="marcelo-rafael" />
 </p>
 
 <p align="center">
