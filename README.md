@@ -119,8 +119,19 @@ Other        29 mins         █▓░░░░░░░░░░░░░░░
 
 ## 📈 **My GitHub Stats:**
 
-[![Marcelo github stats](https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true)](https://github.com/marcelo-rafael/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact)](https://github.com/marcelo-rafael/github-readme-stats)
 
+<!-- Stats -->
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true" alt="marcelo-rafael"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact" alt="marcelo-rafael" />
+</p>
+<!-- contribution sequence -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
+</p>
+
+
+<!-- visitors -->
 <div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael" alt="visitors">
 </div>
