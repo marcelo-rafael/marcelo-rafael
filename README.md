@@ -105,29 +105,21 @@
 
 ---
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-TypeScript   3 hrs 50 mins   ████████████▓░░░░░░░░░░░░   51.28 % 
-JSON         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-SCSS         1 hr 3 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Markdown     51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
-Other        29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-```
-<!--END_SECTION:waka-->
-
-
 ## 📈 **My GitHub Stats:**
-
 
 <!-- Stats -->
 <p align="center">
+	<!-- stats -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelo-rafael&theme=dracula&show_icons=true" alt="marcelo-rafael"/>
+	<!-- most languages -->
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelo-rafael&theme=dracula&layout=compact" alt="marcelo-rafael" />
 </p>
-<!-- contribution sequence -->
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
+	<!-- contribution sequence -->
+          <img width="440" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
+	<!-- wakatime -->
+	  <img width="440" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcelorafael&theme=dracula&layout=compact" alt="marcelo-rafael" />	
 </p>
 
 
