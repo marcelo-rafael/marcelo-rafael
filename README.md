@@ -1,5 +1,10 @@
 <h1 align="center">
-  Hi there, I'm marcelo <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+  Hi there, I'm marcelo 
+	<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
+	     width="30px"> 
+	Welcome to my Profile!!! 
+	<img src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael" 
+	     alt="visitors">
 </h1>
 
 <br />
@@ -18,7 +23,7 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcelo-rafael)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.r.goncalves/)
-[![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-rafael-gonçalves)
+[![linked-in](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/marcelo-rafael-gonçalves)
    
 <br />
 <br />
@@ -118,17 +123,6 @@
           <img width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
 	  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcelorafael&theme=dracula&layout=compact" alt="marcelo-rafael" />	
 </p>
-
-
-<!-- visitors -->
-<div align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=marcelo-rafael.marcelo-rafael" alt="visitors">
-</div>
-
-
-
-
-
 
 <!--
 **marcelo-rafael/marcelo-rafael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
