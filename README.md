@@ -82,6 +82,7 @@
 ![sass](https://img.shields.io/badge/Sass-CF649A?style=for-the-badge&logo=sass&logoColor=white)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### :computer: Backend as a Service (BaaS)
 
