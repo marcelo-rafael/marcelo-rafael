@@ -62,6 +62,8 @@
  🤓 I'm currently focused on the front-end learning the technologies: React.js, TypeScript, Next.js, and Styled-Components...
 </p>
 
+💬 Any help or tips is always welcome!
+
 <p align="left">❤️ **interests:** ⚽️ play football, 📺 watch movies, series and animes, 🎶 listen to music, 📚 read books, 🎮 play video games.</p>
 
 ---
