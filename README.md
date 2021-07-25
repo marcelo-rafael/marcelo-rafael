@@ -11,8 +11,8 @@
 <br />
 
 <table align="left">
- <tr><td><a href="README_en.md">English</a></td></tr>
- <tr><td><a href="README.md">Português</a></td></tr>
+ <tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="readme_pt-br.md">Português</a></td></tr>
 </table>
 
 <!-- IMAGEM -->
