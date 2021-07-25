@@ -27,7 +27,7 @@
 <br />
 <br />
 
-📬 Contato
+📬 Contact
 
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VhaL9D5fgMCvaa8dcCd90KMK8GZ9uKGl/view)
