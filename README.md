@@ -135,8 +135,8 @@
 </p>
 
 <p align="center">
-          <img width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
-	  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcelorafael&theme=dracula&layout=compact" alt="marcelo-rafael" />	
+  <img width="400" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelo-rafael&theme=dracula&hide_border=false" alt="marcelo-rafael's readme streaks" />
+  <img width="400" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcelorafael&theme=dracula&layout=compact" alt="marcelo-rafael" />	
 </p>
 
 <!--
