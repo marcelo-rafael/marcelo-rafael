@@ -89,6 +89,14 @@
 <a href="#">
       <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white" />
 </a>
+<!-- BABEL -->
+<a href="#">
+      <img alt="Babel" src="https://img.shields.io/badge/babel-FCDF3F.svg?style=for-the-badge&logo=babel&logoColor=white" />
+</a>
+<!-- WEBPACK -->
+<a href="#">
+      <img alt="Webpack" src="https://img.shields.io/badge/webpack-2C8EBB.svg?style=for-the-badge&logo=webpack&logoColor=white" />
+</a>
 
 ### :computer: Front-End Development
 
