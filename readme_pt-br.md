@@ -69,11 +69,13 @@
 ---
 
 ### 🛠️ Habilidades
-#### 🎨 ✍🏼 Design: <br/>
+<!--
+#### 🎨 ✍🏼 Design: <br/>-->
 <!-- FIGMA -->
+<!--
 <a href="#">
       <img alt="Figma" src="https://img.shields.io/badge/Figma-F24D1D.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
+</a>-->
 
 #### :wrench: Tools and environments
 
