@@ -29,9 +29,11 @@
 
 📬 Contact
 
+[![rocketseta](https://img.shields.io/badge/rocketseat-000000?style=for-the-badge&logo=rocketseat&logoColor=white)](https://app.rocketseat.com.br/me/marcelo-rafael-goncalves-1593980652)
+
 [![portfolio](https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&logo=Google-chrome&logoColor=F7DF1E)](#)
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1_uSlHoRb0NInNBldTpy_5xYHkeKk-m09/view?usp=sharing)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/marcelo-rafael)
+<a href="https://app.rocketseat.com.br/me/pedrollopesb" target="_blank"> <img alt="Rocketseat-icon" src=".github/Rocketseat-icon.png" widht="30" height="27.5"> </a>
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:marcelo.rafael.goncalves@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelo.r.goncalves/)
