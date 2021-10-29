@@ -46,7 +46,6 @@
     📬 Connect with me:
   </h3>
   <br />
-  <br />
   <a href="#">
     <img 
       src="https://img.shields.io/badge/Portfolio-323330?style=for-the-badge&amp;logo=Google-chrome&amp;logoColor=F7DF1E" 
@@ -73,28 +72,31 @@
   </a>
   <a href="https://app.rocketseat.com.br/me/marcelo-rafael-goncalves-1593980652">
     <img src="./.github/Rocketseat-icon.png"  
-    widht="30" 
     height="27.5" 
     alt="rocketseat">
   </a>
 </div>
 
 <br />
-<br />
+
 
 <!--*************** About ***************-->
 <h3>🚀 About me...</h3>
+<br />
 <div>
+  <h2 align="center"><blockquote>Looking for a junior front-end developer opportunity</blockquote></h2>
+  <br />
   <ul>
     <li>💻 Front-end developer React.js/Next.js.</li><br/>
-    <li>📌 I live in São Paulo - BR.</li><br/>
+    <li>📌 I live in São Paulo-BR.</li><br/>
     <li>🔭 I'm currently a front-end development student, passionate about front-end technologies and delighted with the power of programming.</li><br/>
     <li>🌱 I’m going deeper into HTML5, CSS3 and JavaScript.</li><br/>
     <li>📚🎓👨‍🎓 I'm graduated in Systems Analysis and Development.</li><br/>
     <li>👨‍🎓 I'm a Student at Bootcamp Ignite on the trail of React.js, React Native and Node.js.</li><br/>
-    <li>🤓 I'm learning front-end development in technologies: React.js, Next.js, TypeScript, Styled-Components, Sass, Css modules, Prismic CMS, Chakra-UI, Jest, Testing Library, Performance, Deploy strategy, GraphQL, Apollo, Strapi CMS, Cypress, Design Patterns, S.O.L.I.D, Clean Code.</li><br/>
+    <li>🤓 I'm learning front-end development with technologies: React.js, Next.js, TypeScript, Styled-Components, Sass, CSS-modules, Prismic CMS, Chakra-UI, Jest, Test library, Performance, Deployment strategy, GraphQL, Apollo, Strapi CMS, Cypress, Design Patterns, SOLID, Clean Code.</li><br/>
     <!-- <li>💬 Ask me about HTML5 and CSS3.</li> -->
-    <li>🇺🇸 learning english to achieve fluenc.</li><br/>
+    <li>🇺🇸 learning english to achieve fluency.</li><br/>
+    <li>🤔 I'm looking to help with open source projects.</li><br/>
     <li>💬 Any help or tips is always welcome!</li><br/>
     <li>📩 How to reach me: marcelo.rafael.goncalves@gmail.com or clicking here <a href = "mailto:marcelo.rafael.goncalves@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:marcelo.rafael.goncalves@gmail.com&longCache=true" target="_blank"></a></li><br/>
     <li>❤️ Interests: 💻 watch movies, series and animes,💪 physical exercises, 🎶 listen to music, 📚 read books, 🎮 play video games and ✈️ travel.</li><br/>
