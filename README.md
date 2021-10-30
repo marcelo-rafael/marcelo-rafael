@@ -191,6 +191,9 @@
     src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" 
     alt="heroku">
   <img 
+    src="https://img.shields.io/badge/Netlify-30C8C9?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" 
+    alt="Netlify">
+  <img 
     src="https://img.shields.io/badge/Github Pages-222222?style=for-the-badge&amp;logo=github&amp;logoColor=white" 
     alt="Github Pages">
 </div>
