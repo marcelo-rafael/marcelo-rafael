@@ -173,6 +173,12 @@
   <img 
     src="https://img.shields.io/badge/BootStrap-6E42A2?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" 
     alt="bootstrap">
+  <img 
+    src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&amp;logo=redux&amp;logoColor=white" 
+    alt="bootstrap">
+  <img 
+    src="https://img.shields.io/badge/Redux_Saga-86D46B?style=for-the-badge&amp;logo=reduxsaga&amp;logoColor=white" 
+    alt="bootstrap">
 </div>
 
 ---
