@@ -84,8 +84,6 @@
 <h3>🚀 About me...</h3>
 <br />
 <div>
-  <h2 align="center"><blockquote>Looking for a junior front-end developer opportunity</blockquote></h2>
-  <br />
   <ul>
     <li>💻 Front-end developer React.js/Next.js.</li><br/>
     <li>📌 I live in São Paulo-BR.</li><br/>
