@@ -84,12 +84,6 @@
 <h3>🚀 Sobre mim...</h3>
 <br />
 <div>
-  <h2 align="center">
-    <blockquote>
-      🔭 Atualmente estou procurando uma oportunidade de desenvolvedor front-end júnior
-    </blockquote>
-  </h2>
-  <br />
   <ul>
     <li>💻 Desenvolvedor front-end React.js/Next.js.</li><br/>
     <li>📌 Eu moro em São Paulo-BR.</li><br/>
